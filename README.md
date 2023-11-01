@@ -25,7 +25,7 @@ Estoy comprometido con la excelencia y el progreso en esta emocionante intersecc
 
 <br>
 
-📫 Contáctame en [**nicolas.aparicio23@gmail.com**] para colaboraciones o preguntas 👥  
+📫 Contáctame en **nicolas.aparicio23@gmail.com** para colaboraciones o preguntas 👥  
 
 
 <h3 align="left">Connect with me:</h3>
