@@ -2,25 +2,26 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F4F4&width=435&lines=A+developer+from+Argentina%E2%AD%90%E2%AD%90%E2%AD%90%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23nicolas&label=Profile%20views&color=0e75b6&style=flat" alt="23nicolas" /> </p>
-Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
+🎓 Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
 
-Day Trader NQ 📊 📈 📉  
+📊  Day Trader NQ  📈 📉  
 
 ☕
 
-Inicié mi interés por la programación con el desafío de automatizar estrategias de trading.  
+Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯.  
 
-Mi pasión por la programación se ha fortalecido a medida que continué mis estudios en la facultad, donde adquirí una base sólida en desarrollo de software.  
+Mi pasión por la programación 💻 se ha fortalecido a medida que continué mis estudios en la facultad , donde adquirí una base sólida en desarrollo de software 🔨🔧.  
 
-Ahora, mi enfoque se centra en el aprendizaje continuo de Java, un lenguaje versátil que me ha permitido explorar un amplio espectro de aplicaciones y proyectos.  
+Ahora, mi enfoque se centra en el aprendizaje continuo de Java ♨️, un lenguaje versátil que me ha permitido explorar un amplio espectro de aplicaciones y proyectos 📦.  
 
-Mi objetivo es mejorar constantemente mis estrategias de entrada en el mundo del trading.  
+Mi objetivo es mejorar constantemente mis estrategias de entrada en el mundo del trading 📊💻.  
 
-Busco oportunidades para unificar mis habilidades técnicas con mi pasión por los mercados financieros, creando soluciones innovadoras y automatizadas.  
+Busco oportunidades para unificar mis habilidades técnicas con mi pasión por los mercados financieros, creando soluciones innovadoras y automatizadas .  
 
 Estoy comprometido con la excelencia y el progreso en esta emocionante intersección entre la programación y las estrategias financieras.  
 
-📫 Contáctame en [**nicolas.aparicio23@gmail.com**] para colaboraciones o preguntas
+📫 Contáctame en [**nicolas.aparicio23@gmail.com**] para colaboraciones o preguntas 👥  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
