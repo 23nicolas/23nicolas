@@ -11,17 +11,17 @@
 ☕  
 <br>
 
-Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯. 
+Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯 
 
-Mi pasión por la programación 💻 se ha fortalecido a medida que continué mis estudios en la facultad , donde adquirí una base sólida en desarrollo de software 🔨🔧.  
+Mi pasión por la programación 💻 se ha fortalecido a medida que continué mis estudios en la facultad , donde adquirí una base sólida en desarrollo de software 🔨🔧  
 
-Ahora, mi enfoque se centra en el aprendizaje continuo de Java ♨️, un lenguaje versátil que me ha permitido explorar un amplio espectro de aplicaciones y proyectos 📦.  
+Ahora, mi enfoque se centra en el aprendizaje continuo de Java ♨️, un lenguaje versátil que me ha permitido explorar un amplio espectro de aplicaciones y proyectos 📦  
 
 Mi objetivo es mejorar constantemente mis estrategias de entrada en el mundo del trading 📊💻.  
 
-Busco oportunidades para unificar mis habilidades técnicas con mi pasión por los mercados financieros, creando soluciones innovadoras y automatizadas .  
+Busco oportunidades para unificar mis habilidades técnicas con mi pasión por los mercados financieros, creando soluciones innovadoras y automatizadas   
 
-Estoy comprometido con la excelencia y el progreso en esta emocionante intersección entre la programación y las estrategias financieras.   
+Estoy comprometido con la excelencia y el progreso en esta emocionante intersección entre la programación y las estrategias financieras   
 <br>
 📫 Contáctame en **nicolas.aparicio23@gmail.com** para colaboraciones o preguntas 👥  
 <br>
