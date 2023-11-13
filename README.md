@@ -23,7 +23,7 @@ Busco oportunidades para unificar mis habilidades técnicas con mi pasión por l
 
 Estoy comprometido con la excelencia y el progreso en esta emocionante intersección entre la programación y las estrategias financieras  
 
-
+<br>
 📫 Contáctame en **nicolas.aparicio23@gmail.com** para colaboraciones o preguntas 👥  
 <br>
 
