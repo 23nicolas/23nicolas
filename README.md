@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23nicolas&label=Profile%20views&color=0e75b6&style=flat" alt="23nicolas" /> </p>  
 
-
 🎓 Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
 <br>
 📊  Day Trader NQ  📈 📉    
