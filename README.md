@@ -9,6 +9,7 @@
 <br>  
 
 ☕  
+
 <br>
 Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯 
 
