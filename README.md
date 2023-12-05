@@ -9,7 +9,6 @@
 <br>  
 ☕  
 <br>
-
 Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯 
 
 Mi pasión por la programación 💻 se ha fortalecido a medida que continué mis estudios en la facultad , donde adquirí una base sólida en desarrollo de software 🔨🔧  
