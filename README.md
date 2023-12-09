@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23nicolas&label=Profile%20views&color=0e75b6&style=flat" alt="23nicolas" /> </p>  
 
 🎓 Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
+
 <br>
 📊  Day Trader NQ  📈 📉    
 <br>  
 ☕  
 <br>
+
 Inicié mi interés por la programación con el desafío de automatizar estrategias de trading 🎯 
 
 Mi pasión por la programación 💻 se ha fortalecido a medida que continué mis estudios en la facultad , donde adquirí una base sólida en desarrollo de software 🔨🔧  
