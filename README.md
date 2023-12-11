@@ -6,7 +6,7 @@
 🎓 Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
 
 <br>
-📫 Actualmente trabajando en 👉 [e-commerce Gothspooky Feria](https://github.com/CodeSystem2022/UnitedCode-e-commerce)
+📫 Actualmente trabajando en 👉[e-commerce Gothspooky Feria] (https://github.com/CodeSystem2022/UnitedCode-e-commerce)
 
 <br>
 <h3 align="left">Contáctame en Linkedin</h3>
