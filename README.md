@@ -6,7 +6,8 @@
 🎓 Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina  
 
 <br>
-📫 Contáctame en **nicolas.aparicio23@gmail.com** 
+📫 Actualmente trabajando en 👉 [e-commerce Gothspooky Feria](https://github.com/CodeSystem2022/UnitedCode-e-commerce)
+
 <br>
 <h3 align="left">Contáctame en Linkedin</h3>
 <p align="left">
