@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23nicolas&label=Profile%20views&color=0e75b6&style=flat" alt="23nicolas" /> </p>  
 
 🎓 Estudiante de Programación en la Universidad Tecnológica Nacional (UTN) - Facultad Regional San Rafael, Argentina.
-
 <br>
 📫 Actualmente desarrollando https://github.com/CodeSystem2022/UnitedCode-e-commerce 
 <br>
